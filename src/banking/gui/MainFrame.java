@@ -16,6 +16,9 @@ import javax.swing.*;
 *    MainFrame.java
 *Description:
 *	Initializes my server and construct the properties into a frame
+*	And I had to add lines because your instructions were not clear and
+*	I am still trying to get familiar with git hub on net on desktop and through bash so 
+*	here are a few more lines to prove I can push on first part of task 2
 */
 @SuppressWarnings("serial")
 class MainFrame extends JFrame {
