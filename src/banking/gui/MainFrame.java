@@ -10,7 +10,13 @@ import java.awt.FlowLayout;
 import java.awt.Container;
 import java.awt.event.*;
 import javax.swing.*;
-
+/*
+* 
+*Class:	
+*    MainFrame.java
+*Description:
+*	Initializes my server and construct the properties into a frame
+*/
 @SuppressWarnings("serial")
 class MainFrame extends JFrame {
 	AccountServer	myServer;
